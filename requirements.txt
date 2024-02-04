@@ -1,4 +1,4 @@
 Flask==2.0.3
 Flask-SQLAlchemy==3.0.1
 pytz==2021.1
-Flask-Babel==2.0.1
+Flask-Babel==1.0.0
