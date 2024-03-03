@@ -58,7 +58,7 @@ class EmployeeManagementApp(tk.Tk):
         super().__init__()
 
         self.title("Quản lý nhân viên")
-        self.geometry("1500x800")
+        self.geometry("1200x600")
         self.configure(background="#F0F0F0")
 
         self.projects = []
