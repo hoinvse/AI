@@ -1,0 +1,44 @@
+[
+    {
+        "project_id": 1,
+        "name": "D\u1ef1 \u00c1n 1",
+        "start_date": "2024-03-03",
+        "end_date": "2024-03-15",
+        "description": "abcxyz.",
+        "status": "Ho\u00e0n Th\u00e0nh",
+        "assigned_employees": [
+            "NS07",
+            "KT08",
+            "KT09",
+            "NS08",
+            "KT10"
+        ]
+    },
+    {
+        "project_id": 2,
+        "name": "B\u00e1n C\u00f4ng Ty",
+        "start_date": "2024-03-03",
+        "end_date": "2024-03-03",
+        "description": "123456",
+        "status": "50%",
+        "assigned_employees": [
+            "NS03",
+            "NS01",
+            "NS02",
+            "NS03",
+            "KT02",
+            "KT03",
+            "MKT01",
+            "NS04"
+        ]
+    },
+    {
+        "project_id": 3,
+        "name": "D\u1ef1 \u00e1n ma",
+        "start_date": "2024-03-03",
+        "end_date": "2025-03-03",
+        "description": "maaaaaaaaaaaaaaaaa",
+        "status": "10%",
+        "assigned_employees": []
+    }
+]
